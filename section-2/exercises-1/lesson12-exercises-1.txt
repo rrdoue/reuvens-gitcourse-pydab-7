@@ -1,0 +1,23 @@
+1. Created a new repository, we're in it now, reuvens-gitcourse-pydab-7.
+
+2. Checked the .git/gitconfig file using git config --local --list.
+
+3. Added our name and email to the user section of the git config file.  Oops, I thought I'd added these earlier, just discovered I'd actually added these to another repository, adding now.
+
+4. Re-viewed the git config file to verify the changes.
+
+5. Used git status numerous times to understand what's going on at various stages of the different commands.
+
+6. Created a new file in the scratch directory and checked its untracked status using git status.
+
+7. Added the new file with git add <file>.  Verified its location in the staging area.
+
+8. Committed the file using git commit <file>.
+
+9. Verified with git status
+
+10. Modifying the file now, then just committed the file a few minutes ago.
+
+11. Now modify the file in the scratch directory again, and add a second file.  Tested adding both files together, removed the newly created file.  Committed the first file that we had just modified still in staging.  Added and committed the second file separately as requested.
+
+Exercise completed.
