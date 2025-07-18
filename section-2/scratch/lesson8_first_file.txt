@@ -1,4 +1,4 @@
-Reuven says to create a file, then add and commit it to our new repository.
+Reuven says to create a file, then add and commit it to our new repository.  In addition, as part of exercises-1, modifying this file as part of step 10 to include work completed as part of that exercise.
 
 Let's see, I am way behind in the normal first part of the Python learning, but trying to at least catch up on git. 
 
