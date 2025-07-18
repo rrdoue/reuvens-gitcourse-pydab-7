@@ -1,3 +1,2 @@
 This is the second file in exercise-2.  Commit each file at least twice, with additions, deletions, and modifications.
-
 Adding a new line for a new commit.
