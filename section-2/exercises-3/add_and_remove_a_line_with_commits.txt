@@ -1,4 +1,2 @@
 exercises-3 (1):  Add a line with a commit, then remove the line with another commit later.
 
-Added this line using a new commit, then removing this line manually with another commit right after.
-
