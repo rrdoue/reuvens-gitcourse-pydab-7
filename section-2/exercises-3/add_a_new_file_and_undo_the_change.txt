@@ -1,0 +1,1 @@
+So here we're adding a new file, then deleting it with git revert.  This is for exercises-3 (7).
