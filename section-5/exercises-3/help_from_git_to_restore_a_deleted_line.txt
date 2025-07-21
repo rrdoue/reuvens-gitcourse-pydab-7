@@ -1,0 +1,3 @@
+exercises-3: (2) In a repository, remove an existing line from an existing file.  Now create a new commit that adds that line back.
+
+Remove this line as if one is editing a file, commit the change, then use git to revert the change and restore the file to its previous state.

@@ -1,0 +1,3 @@
+exercises-3: (3) In a repository, modify an existing line from an existing file.  Now (manually) create a new commit that undoes the modification.
+
+In this existing file, commit the file, then modify this line, then restore it with a manual commit.
