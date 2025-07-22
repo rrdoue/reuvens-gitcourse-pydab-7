@@ -1,2 +1,6 @@
 # Omits .bak files
 *.bak
+# These entries allow us to ignore the exercise description files
+section-3/exercises-2/exercises-2_description.txt
+section-5/exercises-3/exercises-3_description.txt
+section-7/exercises-4/exercises-4_description.txt
