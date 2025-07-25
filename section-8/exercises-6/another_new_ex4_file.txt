@@ -1,1 +1,5 @@
 Doing a new file in ex4 for merge practice using ex3 and ex4.
+
+The second commit is to ex4 from ex3, which should be a fast-forward merge.
+
+So it normally takes a merge commit, then a fas-forward commit, to combine two branches when there are no conflicts.
