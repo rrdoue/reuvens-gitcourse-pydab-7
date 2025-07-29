@@ -8,3 +8,6 @@ section-8/exercises-5/exercises-5_description.txt
 section-8/exercises-6/exercises-6_answers.txt
 section-8/exercises-7/exercises-7-answers.txt
 section-8/exercises-8/exercises-8-answers.txt
+
+# JetBrains configuration directory
+.idea
