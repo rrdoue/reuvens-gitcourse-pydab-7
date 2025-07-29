@@ -1,4 +1,3 @@
 #! /usr/bin/env python3
 
-# branch main file that will have conflicts with similar file in branch new-feature.
-
+# This file exists in both of the main and new-feature branches.
