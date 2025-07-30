@@ -4,5 +4,5 @@ import sys
 import environs
 
 def add_function_here(json_file):
-    
-    return None
+
+    pass
